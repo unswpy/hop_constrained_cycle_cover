@@ -1,0 +1,5 @@
+baseline:	0	 ours : 	277728
+runtime:ours	20.69
+ours done
+baseline:	262021	 ours : 	277728
+runtime:ours	20.69	 basline : 	13.356
